@@ -34,4 +34,4 @@ def square_root(num)
   sum
 end
 
-puts math.sqrt(81)
+puts sqrt(81)
