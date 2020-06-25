@@ -23,4 +23,4 @@ def square_root(num)
 
 end
 
-addition(1,2)==3
+puts addition(1,2)==3
