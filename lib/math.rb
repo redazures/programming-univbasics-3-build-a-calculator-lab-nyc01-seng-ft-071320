@@ -29,7 +29,9 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-
+  sum=square_root(num1)
+  puts sum
+  sum
 end
 
 puts addition(1,2)==3
